@@ -167,7 +167,7 @@ They have kindly agreed to review and help update future contributions for the t
 * [Zack Piper (zackp30)](https://github.com/zackp30) — [2+](https://github.com/jlevy/the-art-of-command-line/commits?author=zackp30)/[1+](https://github.com/jlevy/the-art-of-command-line/issues?q=author%3Azackp30)
 * [Aleksandr Zhuravlev (zelark)](https://github.com/zelark) — [2+](https://github.com/jlevy/the-art-of-command-line/commits?author=zelark)/[1+](https://github.com/jlevy/the-art-of-command-line/issues?q=author%3Azelark)
 * [Xudong Zhang (zxdvd)](https://github.com/zxdvd) — [0+](https://github.com/jlevy/the-art-of-command-line/commits?author=zxdvd)/[1+](https://github.com/jlevy/the-art-of-command-line/issues?q=author%3Azxdvd)
-
+* Giocar
 Numbers link to commits/issues.
 For simplicity, this file is maintained only in English.
 
